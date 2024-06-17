@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Astar.cpp
+  ChildFrm.cpp
+  Ghost.cpp
+  MainFrm.cpp
+  Mob.cpp
+  Pac.cpp
+  PacDoc.cpp
+  PacMan.cpp
+  PacMap.cpp
+  PacView.cpp
+  Generating Code...
+  Pac.vcxproj -> C:\Users\otmane\Desktop\Pac\x64\Debug\Pac.exe
